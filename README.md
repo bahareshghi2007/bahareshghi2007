@@ -17,8 +17,8 @@
 <br><br/>
 
 ### 📊Stats:
-![Bahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahareshghi&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahareshghi&layout=compact)](https://github.com/bahareshghi/github-readme-stats)
+![Bahar's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahareshghi2007&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahareshghi2007&layout=compact)](https://github.com/bahareshghi2007/github-readme-stats)
 ---
 ### 📱My social:
 <div>
