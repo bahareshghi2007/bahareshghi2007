@@ -3,7 +3,7 @@
 </h1>
 
 ### 👦About me:
-  Hi,I'm Bahar and I'm 15 years old. I am junior front-end developer from Iran. I spend a lot of time coding during the day and I enjoy coding🙂
+  Hi,I'm Bahar and I'm 15 years old. I am junior front-end developer from Iran. I spend a lot of time coding during the day and I enjoy coding
   <br><br/>
 ---
 
